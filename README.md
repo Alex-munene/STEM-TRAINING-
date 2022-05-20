@@ -4,8 +4,8 @@ Learning markdown installing python
 ## Day two
 Manipulating datatypes and basic calculation
 ## Day three
-Building complex calculator
+Building complex calculator,
 Control flow
 Comparisors
-##Day four
-Control flow and lists
+## Day four
+Control flow,lists
