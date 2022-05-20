@@ -7,3 +7,5 @@ Manipulating datatypes and basic calculation
 Building complex calculator
 Control flow
 Comparisors
+##Day four
+Control flow and lists
